@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <!--Documento realizado por el alumno Pedro Godoy Polaina para el ejercicio
 del tema 5 de DAW-->
+<!-- MODIFICACIÓN que se realiza para comprobar la funcionalidad de NetBeans 
+para actualizar los archivos del repositorio en GitHub Actividad 2.3 -->
 <html lang="es">
 
 <head>
